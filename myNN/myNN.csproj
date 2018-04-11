@@ -40,6 +40,10 @@
     <Compile Include="OutputNeuron.cs" />
     <Compile Include="Neuron.cs" />
     <Compile Include="HiddenNeuron.cs" />
+    <Compile Include="Network.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <None Include="junkcode.txt" />
+  </ItemGroup>
 </Project>

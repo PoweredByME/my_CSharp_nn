@@ -30,7 +30,7 @@ namespace NeuralNetwork
 		}
 
 		public void randomizeWeights(){
-			Random r = new Random ();
+			Random r = new Random (Guid.NewGuid().GetHashCode());
 			for (int c = 0; c < this.weights.Length; c++) {
 				weights [c] = r.NextDouble ();
 			}
