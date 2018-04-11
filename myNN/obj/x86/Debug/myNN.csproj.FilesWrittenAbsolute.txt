@@ -1,0 +1,5 @@
+/home/saad/Desktop/HARD DISK/projects/cSharpProjects/myNN/myNN/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/saad/Desktop/HARD DISK/projects/cSharpProjects/myNN/myNN/bin/Debug/myNN.exe.mdb
+/home/saad/Desktop/HARD DISK/projects/cSharpProjects/myNN/myNN/bin/Debug/myNN.exe
+/home/saad/Desktop/HARD DISK/projects/cSharpProjects/myNN/myNN/obj/x86/Debug/myNN.exe
+/home/saad/Desktop/HARD DISK/projects/cSharpProjects/myNN/myNN/obj/x86/Debug/myNN.exe.mdb
